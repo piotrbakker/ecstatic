@@ -21,13 +21,13 @@ A “category” places a file into a general asset class. Commonly used categor
 
 ### Sub-categories
 
-A “sub-category” aims to differentiate between multiple versions of a single file category. Typical sub-categories include `light` and `dark` color schemes or localized brand variants.
+A “sub-category” aims to differentiate between multiple versions of a single file category. Typical sub-categories include `light` and `dark` interface color schemes or localized content variants.
 
 ### Components and modifiers
 
 A “component” identifies each functional file type within each category. For example, the “brand” category can contain “logo” or “wordmark” components, whereas the “content” category can contain such components like “avatar,” “photo” or “screenshot.”
 
-A “modifier” appends a unique description to each component, such as information about the file shape, dimensions, resolution, numerical order or date when it was created.
+A “modifier” appends a technical suffix to each component, such as information about file shape, dimensions, resolution, numerical order or date when it was created.
 
 ## Examples
 
@@ -44,8 +44,8 @@ brand.apple-touch-icon-filez-76@2x.png
 brand.app-icon-filez.png
 brand.logo-filez.png
 
-brand.us.wordmark-filez.svg
-brand.jp.wordmark-filez.svg
+brand.wordmark-filez.svg
+brand.wordmark-filez.svg
 ```
 
 ### Interface
@@ -64,8 +64,8 @@ interface.dark.icon-chevron-right-24.svg
 content.avatar-01@2x.png
 content.avatar-02@2x.png
 
-content.screenshot-filez-01@2x.png
-content.screenshot-filez-02@2x.png
+content.us.screenshot-filez-01@2x.png
+content.jp.screenshot-filez-02@2x.png
 ```
 
 ### Affiliate
