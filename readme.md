@@ -4,7 +4,7 @@ Filez is a framework for naming static files in product design.
 
 ## Naming convention
 
-Filez follows a two-tiered naming hierarchy, dividing file names into (1) general “categories” and “sub-categories,” as well as (2) descriptive “components” and “modifiers.”
+Filez follows a two-tiered naming hierarchy, dividing file names into (1) general “categories” and “sub-categories,” as well as (2) descriptive “elements” and “modifiers.”
 
 ```
 [category].[sub-category].[component]-[modifier].[extension]
@@ -23,11 +23,11 @@ A “category” places a file into a general asset class. Commonly used categor
 
 A “sub-category” aims to differentiate between multiple versions of a single file category. Typical sub-categories include `light` and `dark` interface color schemes or localized content variants.
 
-### Components and modifiers
+### Elements and modifiers
 
-A “component” identifies each functional file type within each category. For example, the “brand” category can contain “logo” or “wordmark” components, whereas the “content” category can contain such components like “avatar,” “photo” or “screenshot.”
+An “element” identifies each functional file type within each category. For example, the “brand” category can contain “logo” or “wordmark” elements, whereas the “content” category can contain such elements like “avatar,” “photo” or “screenshot.”
 
-A “modifier” appends a technical suffix to each component, such as information about file shape, dimensions, resolution, numerical order or date when it was created.
+A “modifier” appends a technical suffix to each element, such as information about file shape, dimensions, resolution, numerical order or date when it was created.
 
 ## Examples
 
