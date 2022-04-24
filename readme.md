@@ -72,11 +72,11 @@ slice.rectangle-outlined-w24h24-#F1C100.png
 ### Content
 
 ```
-content.avatar-01@2x.png
-content.avatar-02@2x.png
+content.photo-product-filez-01.png
+content.photo-product-filez-02.png
 
-content.us.screenshot-filez-01@2x.png
-content.jp.screenshot-filez-02@2x.png
+content.hero-image-filez-mobile.png
+content.hero-image-filez-desktop.png
 ```
 
 ### Affiliate
