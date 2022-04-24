@@ -16,6 +16,7 @@ A “category” places a file into a general asset class. Commonly used categor
 
 * Brand — files related to brand identity, such as logos, wordmarks, and app icons;
 * Interface — files used to control the user interface, typically vector graphics or animated GIFs;
+* Slice — files used as building blocks of the user interface, like geometric shapes or background patterns;
 * Content — files used for decorative and informational purposes, such as illustrations and photographs; 
 * Affiliate — files used on 3rd party services and platforms.
 
