@@ -14,11 +14,11 @@ Filez follows a two-tiered naming hierarchy, dividing file names into (1) genera
 
 A “category” places a file into a general asset class. Commonly used categories include:
 
-* Brand — files related to brand identity, such as logos, wordmarks, and app icons;
+* Brand — files related to brand identity, such as logos, wordmarks, or app icons;
 * Interface — files used to control the user interface, typically vector graphics or animated GIFs;
 * Slice — files used as building blocks of the user interface, like geometric shapes or background patterns;
-* Content — files used for decorative and informational purposes, such as illustrations and photographs; 
-* Affiliate — files used on 3rd party services and platforms.
+* Content — files used for decorative or informational purposes, such as illustrations and photographs; 
+* Affiliate — files used on 3rd party services and platforms, such as avatars or screenshots.
 
 ### Sub-categories
 
