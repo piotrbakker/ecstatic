@@ -59,6 +59,16 @@ interface.dark.icon-chevron-left-24.svg
 interface.dark.icon-chevron-right-24.svg
 ```
 
+### Slice
+
+```
+slice.rectangle-contained-w24h24-#333333.png
+slice.rectangle-contained-w24h24-#F1C100.png
+
+slice.rectangle-outlined-w24h24-#333333.png
+slice.rectangle-outlined-w24h24-#F1C100.png
+```
+
 ### Content
 
 ```
