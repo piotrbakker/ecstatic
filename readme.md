@@ -32,7 +32,7 @@ A “modifier” appends a technical suffix to each element, such as information
 
 ### Dates
 
-Dates should be expressed according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD].
+To enhance human readability and reduce ambiguity dates should be expressed according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD].
 
 ## Examples
 
