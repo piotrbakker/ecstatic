@@ -4,7 +4,7 @@ Filez is a framework for naming static files in product design.
 
 ## Formatting
 
-Filez follows a two-tiered naming hierarchy, dividing file names into (1) general “categories” and “sub-categories,” as well as (2) descriptive “elements” and “modifiers.”
+Filez divides file names into (1) general “categories” and “sub-categories,” as well as (2) descriptive “elements” and “modifiers.”
 
 ```
 [category].[sub-category].[element]-[modifier].[extension]
