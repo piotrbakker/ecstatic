@@ -30,6 +30,10 @@ An “element” identifies each functional file type within each category. For 
 
 A “modifier” appends a technical suffix to each element, such as information about file shape, dimensions, resolution, numerical order or date when it was created.
 
+### Dates
+
+Dates should be expressed according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD].
+
 ## Examples
 
 ### Brand
