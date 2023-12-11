@@ -1,10 +1,10 @@
-# Filez
+# Ecstatic
 
-Filez is a framework for naming static files in product design.
+Ecstatic is a framework for naming static files in product design.
 
 ## Formatting
 
-Filez divides file names into (1) general “categories” and “sub-categories,” as well as (2) descriptive “elements” and “modifiers.”
+Ecstatic divides file names into (1) general “categories” and “sub-categories,” as well as (2) descriptive “elements” and “modifiers.”
 
 ```
 [category].[sub-category].[element]-[modifier].[extension]
@@ -45,18 +45,18 @@ To enhance human readability and reduce ambiguity dates should be expressed acco
 ### Brand
 
 ```
-brand.favicon-filez.png
+brand.favicon-ecstatic.png
 
-brand.apple-touch-icon-filez-60@2x.png
-brand.apple-touch-icon-filez-60@3x.png
-brand.apple-touch-icon-filez-76@1x.png
-brand.apple-touch-icon-filez-76@2x.png
+brand.apple-touch-icon-ecstatic-60@2x.png
+brand.apple-touch-icon-ecstatic-60@3x.png
+brand.apple-touch-icon-ecstatic-76@1x.png
+brand.apple-touch-icon-ecstatic-76@2x.png
 
-brand.app-icon-filez.png
-brand.logo-filez.png
+brand.app-icon-ecstatic.png
+brand.logo-ecstatic.png
 
-brand.wordmark-filez.svg
-brand.wordmark-filez.svg
+brand.wordmark-ecstatic.svg
+brand.wordmark-ecstatic.svg
 ```
 
 ### Interface
@@ -82,24 +82,24 @@ slice.rectangle-outlined-w24h24-#F1C100.png
 ### Content
 
 ```
-content.photo-product-filez-01.png
-content.photo-product-filez-02.png
+content.photo-product-ecstatic-01.png
+content.photo-product-ecstatic-02.png
 
-content.hero-image-filez-mobile.png
-content.hero-image-filez-desktop.png
+content.hero-image-ecstatic-mobile.png
+content.hero-image-ecstatic-desktop.png
 ```
 
 ### Affiliate
 
 ```
-affiliate.medium-publication-avatar-filez.png
-affiliate.medium-cover-filez.png
-affiliate.medium-screenshot-filez-2020-02-20.png
+affiliate.medium-publication-avatar-ecstatic.png
+affiliate.medium-cover-ecstatic.png
+affiliate.medium-screenshot-ecstatic-2020-02-20.png
 
-affiliate.producthunt-thumbnail-filez.png
-affiliate.producthunt-gallery-filez-01.png
+affiliate.producthunt-thumbnail-ecstatic.png
+affiliate.producthunt-gallery-ecstatic-01.png
 ```
 
 ## License
 
-Filez is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
+Ecstatic is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
