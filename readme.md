@@ -9,6 +9,7 @@ Ecstatic divides file names into (1) general “categories” and “sub-categor
 ```
 [category].[sub-category].[element]-[modifier].[extension]
 ```
+Dot notation (`.`) is used to separate hierarchical levels, such as categories and sub-categories, whereas hyphens (`-`) are used to separate descriptive elements and technical modifiers.
 
 ### Categories
 
