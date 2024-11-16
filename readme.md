@@ -7,7 +7,7 @@ Ecstatic is a framework for naming static files in product design.
 Ecstatic divides file names into (1) general “categories” and “sub-categories,” as well as (2) descriptive “elements” and “modifiers.”
 
 ```
-[category].[sub-category].[element]-[modifier].[extension]
+[category].[sub-category]-[element]-[modifier].[extension]
 ```
 Dot notation (`.`) is used to separate hierarchical levels, such as categories and sub-categories, whereas hyphens (`-`) are used to separate descriptive elements and technical modifiers.
 
@@ -53,21 +53,21 @@ brand.apple-touch-icon-ecstatic-60@3x.png
 brand.apple-touch-icon-ecstatic-76@1x.png
 brand.apple-touch-icon-ecstatic-76@2x.png
 
-brand.app-icon-ecstatic.png
-brand.logo-ecstatic.png
+brand.light-app-icon-ecstatic-1024@1x.png
+brand.dark-app-icon-ecstatic-1024@1x.png
 
-brand.wordmark-ecstatic.svg
+brand.logo-ecstatic.png
 brand.wordmark-ecstatic.svg
 ```
 
 ### Interface
 
 ```
-interface.light.icon-cross-24.svg
-interface.light.icon-check-24.svg
+interface.light-icon-cross-24.svg
+interface.light-icon-check-24.svg
 
-interface.dark.icon-chevron-left-24.svg
-interface.dark.icon-chevron-right-24.svg
+interface.dark-icon-chevron-left-24.svg
+interface.dark-icon-chevron-right-24.svg
 ```
 
 ### Slice
@@ -99,6 +99,9 @@ affiliate.medium-screenshot-ecstatic-2020-02-20.png
 
 affiliate.producthunt-thumbnail-ecstatic.png
 affiliate.producthunt-gallery-ecstatic-01.png
+
+affiliate.appstore-screenshot-ecstatic-402@3x-01
+affiliate.appstore-screenshot-ecstatic-402@3x-02
 ```
 
 ## License
