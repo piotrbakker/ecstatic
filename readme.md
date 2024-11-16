@@ -35,7 +35,7 @@ A “modifier” appends a technical suffix to each element, such as information
 
 File dimensions are formatted as `wWWhHH`. [WW] is the width of the file, prefixed by the letter _w_, and [HH] is its height, prefixed with the letter _h_. 
 
-The framework also allows for dimensions to be written with reduced precision. For example, one may simply write `60@2x` to refer to both the width and the height of the file.
+The framework also allows for dimensions to be written with reduced precision. For example, one may simply write `60@2x` to refer to the width and/or the height of the file.
 
 ### Dates
 
